@@ -1,4 +1,4 @@
-# JaneVeiwTool
+# JaneViewTool
 
 > Various view specific methods for an app I use.
 

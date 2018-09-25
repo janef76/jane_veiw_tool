@@ -5,7 +5,7 @@ require "jane_view_tool/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "jane_view_tool"
-  spec.version       = JaneVeiwTool::VERSION
+  spec.version       = JaneViewTool::VERSION
   spec.authors       = ["janef76"]
   spec.email         = ["janeflucker@btinternet.com"]
 
