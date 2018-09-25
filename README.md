@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jane_veiw_tool'
+gem 'jane_view_tool'
 ```
 
 And then execute:
@@ -16,11 +16,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jane_veiw_tool
+    $ gem install jane_view_tool
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JaneViewTool::Renderer.copyright "Jane Flucker", "All rights reserved"
+```
 
 ## Development
 
@@ -30,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jane_veiw_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jane_view_tool.
 
 ## License
 

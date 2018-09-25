@@ -1,10 +1,10 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "jane_veiw_tool/version"
+require "jane_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "jane_veiw_tool"
+  spec.name          = "jane_view_tool"
   spec.version       = JaneVeiwTool::VERSION
   spec.authors       = ["janef76"]
   spec.email         = ["janeflucker@btinternet.com"]
